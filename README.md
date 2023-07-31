@@ -9,4 +9,5 @@ Detect the facial emotion and mapping this to the appropriate Emoji image using 
 ![image](https://user-images.githubusercontent.com/88943869/191306616-aa12a556-fe8e-46c4-8231-1efe24e1e294.png)
 <br>
 <br>
-<b>See this project On researchgate: <a href = "https://www.researchgate.net/publication/372743093_FACE_DETECTION_EMOJI_PICKER" src= "https://github.com/Abijspy/Facial-Regonication-/assets/88943869/2e5554f6-708e-4d24-a8bf-01dc82a5b567">Link</a></b>
+<b>See this project On researchgate: <a href = "https://www.researchgate.net/publication/372743093_FACE_DETECTION_EMOJI_PICKER" src= "">Link</a></b>
+![researchgate_icon_130843](https://github.com/Abijspy/Facial-Regonication-/assets/88943869/af31d67a-74b4-4829-b9a1-4b0ef08d702b)
