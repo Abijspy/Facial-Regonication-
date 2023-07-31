@@ -7,4 +7,6 @@ Detect the facial emotion and mapping this to the appropriate Emoji image using 
 
 <b>Output:</b><br>
 ![image](https://user-images.githubusercontent.com/88943869/191306616-aa12a556-fe8e-46c4-8231-1efe24e1e294.png)
+<br>
+<br>
 <b>See this project On researchgate: <a href = "https://www.researchgate.net/publication/372743093_FACE_DETECTION_EMOJI_PICKER">Link</a></b>
